@@ -1,0 +1,4 @@
+project_id = "egyhfuitsdkxfibawvef"
+
+[functions.save-external-order]
+verify_jwt = false
